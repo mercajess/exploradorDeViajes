@@ -1,0 +1,16 @@
+#=======================
+#DEPENDENCIAS
+#======================
+mode_modules/
+
+#===================
+ARCHIVOS DEL SISTEMA
+#===================
+.DS_Store
+bs.db
+
+#========================
+#CONFIGURACIONES DE EDITORES
+#========================
+
+.vscode/
