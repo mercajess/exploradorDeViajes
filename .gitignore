@@ -1,16 +1,20 @@
-#=======================
-#DEPENDENCIAS
-#======================
-mode_modules/
+# =
+# DEPENDENCIAS
+# =
 
-#===================
-ARCHIVOS DEL SISTEMA
-#===================
+node_modules/
+
+
+# =
+# ARCHIVOS DEL SISTEMA
+# =
+
 .DS_Store
-bs.db
+Thumbs.db
 
-#========================
-#CONFIGURACIONES DE EDITORES
-#========================
+
+# =
+# CONFIGURACIÓN DEL EDITOR
+# ===
 
 .vscode/

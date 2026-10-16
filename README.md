@@ -1,6 +1,18 @@
 # Explorador de Viajes y Lugares Turísticos
 
+Proyecto integrador desarrollado con JavaScript puro, APIs y librerías para explorar información de países y destinos alrededor del mundo.
+
 ## Tecnologías
+
+- HTML5
+- JavaScript ES6+
+- Tailwind CSS
+- APIs REST
+- LocalStorage
+- Leaflet
+- SweetAlert2
+- Git
+- GitHub
 
 ## Características
 
@@ -21,5 +33,4 @@ La aplicación utiliza una sola página HTML y divide progresivamente la lógica
 
 ## Versión actual
 
-💡
 v0.1.0 - Estructura inicial, Tailwind CSS y configuración del proyecto.
