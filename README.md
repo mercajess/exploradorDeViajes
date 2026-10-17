@@ -48,8 +48,19 @@ El proyecto permitirá:
 - Aplicación de filtros
 - Eventos: input, change
 
+## Leaflet
+- delegación de eventos
+- dataset
+- find()
+- modales
+- DOM dinámico
+- coordenadas
+- Leaflet
+- OpenStreetMap
+- módulos JavaScript
+
 ## Arquitectura
 La aplicación utiliza una sola página HTML y divide progresivamente la lógica
 JavaScript en módulos según su responsabilidad.
 ## Versión actual
-v0.4.0 - Renderizado dinámico de Destinos.
+v0.5.0 - Renderizado dinámico de Destinos.
